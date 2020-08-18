@@ -1,0 +1,29 @@
+/*
+ First External CSS Stylesheet
+ */
+
+/* Styling for HTML elements */
+body {
+  padding: 10;
+  margin: 0;
+  font-family: Tahoma, "Geneva", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  color: rgb(14, 9, 78);
+  background: #e4f0f5;
+  text-align: right;
+  padding: 20px
+}
+
+h1 {text-align: center;}
+h2 {text-align: right; padding: 20px}
+p {text-align: right; padding:20px}
+
+.box {
+  position: absolute
+  left: 25% 
+  width: 200px;
+  height: 200px;
+
+  border: 2px solid rgb(14, 9, 78);
+}
